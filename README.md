@@ -17,6 +17,3 @@ The purpose of this project is to analyze LinkedIn's product design and solution
 - Read through the product dissection overview for an in-depth analysis of LinkedIn's features.
 - Study the case study to understand how LinkedIn addresses real-world problems.
 - Review the schema description and ER diagram to gain insights into LinkedIn's data model.
-
-## Contributing
-Contributions to this project are welcome! Please follow the guidelines outlined in CONTRIBUTING.md.
